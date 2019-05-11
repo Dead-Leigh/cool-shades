@@ -2,7 +2,7 @@ body{
   background-color: blue;
 }
 
-li nav-item active{
+a{
 float: right;
 opacity: 0.3;
 }
