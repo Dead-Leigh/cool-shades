@@ -1,8 +1,7 @@
 body{
   background-color: blue;
 }
-
-a{
+nav-link{
 float: right;
 opacity: 0.3;
 }
