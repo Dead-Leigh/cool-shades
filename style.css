@@ -1,3 +1,7 @@
+bod{
+  background-color: blue;
+}
+
 li nav-item active{
 float: right;
 opacity: 0.3;
