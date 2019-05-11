@@ -1,7 +1,5 @@
-body{
-  background-color: blue;
-}
-nav-link{
+
+li {
 float: right;
 opacity: 0.3;
 }
