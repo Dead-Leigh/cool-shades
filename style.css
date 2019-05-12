@@ -1,5 +1,7 @@
 
 li {
-float: right;
-opacity: 0.3;
+  /* float: right;  this didnt work so John and I used ML in the html
+  also can use margin-right: 7em*/
+  opacity: 0.3;
+  margin-right: 7em
 }
