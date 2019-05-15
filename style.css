@@ -1,7 +1,19 @@
 
-li {
+.hero{
+  background-image: url("img/hero.jpg");
+  background-size: cover;
+}
+
+.nav-link{
   /* float: right;  this didnt work so John and I used ML in the html
   also can use margin-right: 7em*/
   opacity: 0.3;
-  margin-right: 7em
+  /* margin-right: 7em */
+
+  color: #ffffff !important;
+  font-weight: bold;
+}
+
+.cta{
+  color: #ffffff !important;
 }
