@@ -17,3 +17,14 @@
 .cta{
   color: #ffffff !important;
 }
+
+.btn{
+  background-color: red;
+  border-radius: 15px;
+}
+
+p{
+  display: block;
+  height: 5px;
+  width:  50%;
+}
