@@ -21,4 +21,9 @@
 .btn{
   background-color: red;
   border-radius: 15px;
+  color: #ffffff !important;
+}
+
+.ctasunglasses{
+  margin-right: auto;
 }
