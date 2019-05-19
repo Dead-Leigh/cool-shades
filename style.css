@@ -24,6 +24,13 @@
   color: #ffffff !important;
 }
 
+.handsfree{
+  width: 350;
+  height: 400;    
+}
+
 .ctasunglasses{
-  margin-right: auto;
+  width: 400px;
+  height: 400px;
+  float: right;
 }
