@@ -19,18 +19,26 @@
 }
 
 .btn{
-  background-color: red;
+  background-color: ff0000;
   border-radius: 15px;
   color: #ffffff !important;
+
+}
+
+.btn:hover{
+  background-color: 8b0000;
 }
 
 .handsfree{
-  width: 350;
-  height: 400;    
+  display: block;
+  width: 200px !important;
+  height: 400px;
 }
 
 .ctasunglasses{
   width: 400px;
   height: 400px;
   float: right;
+  display: block;
+
 }
