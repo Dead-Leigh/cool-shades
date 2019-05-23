@@ -32,11 +32,6 @@
 }
 
 
-/* .ctasunglasses{ */
-  /* height: 500px;
-  width: 500px; */
-}
-
 .handsfree {
   font-size: 18px;
 }
@@ -52,17 +47,13 @@ p{
   font-size: 18;
 }
 
-.findstyle{
-margin-top: 8;
-margin-bottom: 8px;
-margin-left: 8px;
-margin-right: 8px;
-background-color: #8080800d;
-padding-bottom: 10px;
-padding-top: 10px;
+.learn{
+  color: red;
+  font-size: 18;
 }
 
-.red{
+
+.box{
   margin-top: 8;
   margin-bottom: 8px;
   margin-left: 8px;
@@ -70,5 +61,5 @@ padding-top: 10px;
   background-color: #8080800d;
   padding-bottom: 10px;
   padding-top: 10px;
-
+  /* background-color: black; */
 }
