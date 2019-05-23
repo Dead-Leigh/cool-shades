@@ -16,29 +16,34 @@
 
 .cta{
   color: #ffffff !important;
+  width: 200px;
+  font-size: 18;
 }
 
 .btn{
   background-color: ff0000;
   border-radius: 15px;
   color: #ffffff !important;
-
+  font-size: 18px;
 }
 
 .btn:hover{
   background-color: 8b0000;
 }
 
-.handsfree{
-  display: block;
-  width: 200px !important;
-  height: 400px;
+
+/* .ctasunglasses{ */
+  /* height: 500px;
+  width: 500px; */
 }
 
-.ctasunglasses{
-  width: 400px;
-  height: 400px;
-  float: right;
-  display: block;
+.handsfree {
+  font-size: 18px;
+}
 
+.ig-logo{
+  left:15px;
+  bottom: 15px;
+  position: absolute;
+  width: 40px;
 }
