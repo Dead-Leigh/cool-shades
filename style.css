@@ -64,14 +64,23 @@ p{
   /* background-color: black; */
 }
 
-/* .features{
-  left:15px;
-  bottom: 15px;
-  position: absolute;
-  width: 40px;
-} */
 
+.main{
+  font-weight: bold;
+}
+
+
+.features{
+  bottom: 950px;
+  position: absolute;
+
+}
 
 .foot{
   background-color: black;
+}
+
+.overview{
+  width: 950px;
+
 }
