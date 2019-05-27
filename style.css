@@ -67,20 +67,26 @@ p{
 
 .main{
   font-weight: bold;
+  font-size: 25px;
 }
 
 
 .features{
-  bottom: 950px;
+  bottom: 1150px;
   position: absolute;
+
 
 }
 
 .foot{
   background-color: black;
+  color: white;
+  /* bottom: 100px; */
+  position: absolute;
 }
 
 .overview{
   width: 950px;
+
 
 }
