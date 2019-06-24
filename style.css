@@ -1,7 +1,8 @@
-
 .hero{
   background-image: url("img/hero.jpg");
   background-size: cover;
+  height: 700px;
+  width: auto;
 }
 
 .nav-link{
@@ -61,32 +62,66 @@ p{
   background-color: #8080800d;
   padding-bottom: 10px;
   padding-top: 10px;
-  /* background-color: black; */
+
 }
 
 
 .main{
   font-weight: bold;
-  font-size: 25px;
+  font-size: 18px;
 }
 
+.features2{
+  position: relative;
+}
 
 .features{
-  bottom: 1150px;
-  position: absolute;
-
+  background-image: url("img/features-background.jpg");
+  background-size: cover;
+  width: auto;
+  height: 1000px;
 
 }
 
 .foot{
   background-color: black;
-  color: white;
+  color: #8e8d8b;
+  font-weight: bold;
+  padding-top: 100px;
   /* bottom: 100px; */
-  position: absolute;
+  /* position: absolute; */
 }
 
-.overview{
-  width: 950px;
+.footlogo{
+  position: relative;
+  align-items: center;
+  width: 200px;
+  height: 50px;
+  margin-top: 100px;
+  padding-bottom: 20px;
+
+}
+
+.link{
+  color: white;
+}
+
+.link2{
+  color: white;
+  font-weight: normal;
+}
+
+.link3{
+  color: white;
+  font-weight: normal;
+
+}
+
+.bottomlink{
+  padding-bottom: 50px;
+}
 
 
+.footimg{
+  align-self: center;
 }
